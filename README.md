@@ -1,4 +1,10 @@
 # HackerRank SQL-
+
+Basic SQL SELECT Query Questions:
+
+select * from CITY where POPULATION > 100000 AND COUNTRYCODE = "USA"
+
+
 SQL Solutions from HackerRank
 
 BST Problem -
